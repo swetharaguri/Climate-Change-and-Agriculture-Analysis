@@ -63,9 +63,3 @@ Dataset
 The dataset contains multiple variables related to agriculture and climate, such as year, region, crop type, temperature, precipitation, CO2 emissions, and crop yield. The dataset helps in understanding the long-term effects of climate change on agricultural production and economic outcomes.
 
 Dataset Link: https://www.kaggle.com/datasets/waqi786/climate-change-impact-on-agriculture
-
-Uploaded Date: 9/6/2024
-
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
